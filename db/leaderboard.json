@@ -1,10 +1,10 @@
 [
   {
-    "wins": 4,
+    "wins": 5,
     "losses": 1,
-    "scoredGoals": 12,
-    "concededGoals": 5,
-    "yellowCards": 6,
+    "scoredGoals": 14,
+    "concededGoals": 7,
+    "yellowCards": 3,
     "redCards": 1,
     "team": {
       "color": "#1932e0",
@@ -101,10 +101,10 @@
     "rank": 1
   },
   {
-    "wins": 4,
+    "wins": 5,
     "losses": 1,
-    "scoredGoals": 18,
-    "concededGoals": 12,
+    "scoredGoals": 22,
+    "concededGoals": 15,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -203,11 +203,11 @@
     "rank": 2
   },
   {
-    "wins": 4,
+    "wins": 5,
     "losses": 1,
-    "scoredGoals": 10,
-    "concededGoals": 6,
-    "yellowCards": 6,
+    "scoredGoals": 13,
+    "concededGoals": 8,
+    "yellowCards": 2,
     "redCards": 0,
     "team": {
       "color": "#101920",
@@ -304,10 +304,10 @@
     "rank": 3
   },
   {
-    "wins": 3,
+    "wins": 4,
     "losses": 2,
-    "scoredGoals": 15,
-    "concededGoals": 12,
+    "scoredGoals": 18,
+    "concededGoals": 14,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -406,10 +406,10 @@
   },
   {
     "wins": 3,
-    "losses": 2,
-    "scoredGoals": 16,
-    "concededGoals": 15,
-    "yellowCards": 1,
+    "losses": 3,
+    "scoredGoals": 18,
+    "concededGoals": 17,
+    "yellowCards": 0,
     "redCards": 0,
     "team": {
       "id": "1k",
@@ -510,9 +510,9 @@
   },
   {
     "wins": 3,
-    "losses": 2,
-    "scoredGoals": 15,
-    "concededGoals": 15,
+    "losses": 3,
+    "scoredGoals": 17,
+    "concededGoals": 18,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -611,9 +611,9 @@
   },
   {
     "wins": 3,
-    "losses": 2,
-    "scoredGoals": 11,
-    "concededGoals": 12,
+    "losses": 3,
+    "scoredGoals": 14,
+    "concededGoals": 16,
     "yellowCards": 3,
     "redCards": 0,
     "team": {
@@ -711,218 +711,10 @@
     "rank": 7
   },
   {
-    "wins": 2,
+    "wins": 3,
     "losses": 3,
-    "scoredGoals": 13,
-    "concededGoals": 10,
-    "yellowCards": 2,
-    "redCards": 0,
-    "team": {
-      "color": "#49b2ad",
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/el-barrio-inverse.svg",
-      "url": "https://kingsleague.pro/team/el-barrio/",
-      "channel": "https://twitch.tv/1k",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": [
-        {
-          "id": "el-barrio-1",
-          "name": "José Juan",
-          "role": "jugador 11",
-          "image": "el-barrio-jos-juan.webp"
-        },
-        {
-          "id": "el-barrio-10",
-          "name": "Jacobo",
-          "role": "Delantero",
-          "image": "el-barrio-jacobo.webp"
-        },
-        {
-          "id": "el-barrio-6",
-          "name": "Mase",
-          "role": "Defensa",
-          "image": "el-barrio-mase.webp"
-        },
-        {
-          "id": "el-barrio-9",
-          "name": "Beguer",
-          "role": "Delantero",
-          "image": "el-barrio-beguer.webp"
-        },
-        {
-          "id": "el-barrio-14",
-          "name": "Ros",
-          "role": "Medio",
-          "image": "el-barrio-ros.webp"
-        },
-        {
-          "id": "el-barrio-8",
-          "name": "Ubón",
-          "role": "Medio",
-          "image": "el-barrio-ubn.webp"
-        },
-        {
-          "id": "el-barrio-19",
-          "name": "Pau ZZ",
-          "role": "Defensa",
-          "image": "el-barrio-pau-zz.webp"
-        },
-        {
-          "id": "el-barrio-placeholder",
-          "name": "Olae",
-          "role": "Delantero",
-          "image": "el-barrio-olae.webp"
-        },
-        {
-          "id": "el-barrio-11",
-          "name": "O. Boada",
-          "role": "Delantero",
-          "image": "el-barrio-o-boada.webp"
-        },
-        {
-          "id": "el-barrio-7",
-          "name": "Baranera",
-          "role": "Medio",
-          "image": "el-barrio-baranera.webp"
-        },
-        {
-          "id": "el-barrio-12",
-          "name": "Capilla",
-          "role": "Medio",
-          "image": "el-barrio-capilla.webp"
-        }
-      ],
-      "coach": "Juan Arroita",
-      "shortName": "RDB",
-      "coachInfo": {
-        "name": "Juan Arroita",
-        "image": "juan-arroita.webp"
-      },
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://kingsleague.dev/presidents/adri-contreras.webp",
-        "teamId": "el-barrio"
-      }
-    },
-    "rank": 8
-  },
-  {
-    "wins": 2,
-    "losses": 3,
-    "scoredGoals": 15,
-    "concededGoals": 18,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
-      "color": "#f6ab34",
-      "id": "rayo-barcelona",
-      "name": "Rayo de Barcelona",
-      "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/rayo-barcelona-inverse.svg",
-      "url": "https://kingsleague.pro/team/rayo-barcelona/",
-      "channel": "https://twitch.tv/spursito",
-      "socialNetworks": [
-        "https://www.twitch.tv/spursito",
-        "https://www.instagram.com/rayodebarcelona/?hl=es",
-        "https://twitter.com/RayodeBarcelona",
-        "https://www.tiktok.com/@rayodebarcelona"
-      ],
-      "players": [
-        {
-          "id": "rayo-barcelona-45",
-          "name": "Poloteli",
-          "role": "jugador 11",
-          "image": "rayo-barcelona-poloteli.webp"
-        },
-        {
-          "id": "rayo-barcelona-10",
-          "name": "Pelaz",
-          "role": "Medio",
-          "image": "rayo-barcelona-pelaz.webp"
-        },
-        {
-          "id": "rayo-barcelona-41",
-          "name": "Canet",
-          "role": "Portero",
-          "image": "rayo-barcelona-canet.webp"
-        },
-        {
-          "id": "rayo-barcelona-19",
-          "name": "Guillem ZZ",
-          "role": "Delantero",
-          "image": "rayo-barcelona-guillem-zz.webp"
-        },
-        {
-          "id": "rayo-barcelona-22",
-          "name": "M. Reyes",
-          "role": "Defensa",
-          "image": "rayo-barcelona-m-reyes.webp"
-        },
-        {
-          "id": "rayo-barcelona-30",
-          "name": "Franky P.",
-          "role": "Medio",
-          "image": "rayo-barcelona-franky-p.webp"
-        },
-        {
-          "id": "rayo-barcelona-8",
-          "name": "Dani P.",
-          "role": "Medio",
-          "image": "rayo-barcelona-dani-p.webp"
-        },
-        {
-          "id": "rayo-barcelona-11",
-          "name": "Alejandro",
-          "role": "Defensa",
-          "image": "rayo-barcelona-alejandro.webp"
-        },
-        {
-          "id": "rayo-barcelona-9",
-          "name": "Biboum M.",
-          "role": "Delantero",
-          "image": "rayo-barcelona-biboum-m.webp"
-        },
-        {
-          "id": "rayo-barcelona-63",
-          "name": "Jonathan",
-          "role": "Medio",
-          "image": "rayo-barcelona-jonathan.webp"
-        },
-        {
-          "id": "rayo-barcelona-77",
-          "name": "Alex Race",
-          "role": "Delantero",
-          "image": "rayo-barcelona-alex-race.webp"
-        }
-      ],
-      "coach": "JuanluDBZ",
-      "shortName": "RDB",
-      "coachInfo": {
-        "name": "JuanluDBZ",
-        "image": "juanludbz.webp"
-      },
-      "president": {
-        "id": "spursito",
-        "name": "Spursito",
-        "image": "https://kingsleague.dev/presidents/spursito.webp",
-        "teamId": "rayo-barcelona"
-      }
-    },
-    "rank": 9
-  },
-  {
-    "wins": 2,
-    "losses": 3,
-    "scoredGoals": 17,
-    "concededGoals": 22,
+    "scoredGoals": 20,
+    "concededGoals": 25,
     "yellowCards": 2,
     "redCards": 1,
     "team": {
@@ -1020,14 +812,222 @@
         "teamId": "los-troncos-fc"
       }
     },
+    "rank": 8
+  },
+  {
+    "wins": 2,
+    "losses": 4,
+    "scoredGoals": 16,
+    "concededGoals": 13,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "color": "#49b2ad",
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/el-barrio-inverse.svg",
+      "url": "https://kingsleague.pro/team/el-barrio/",
+      "channel": "https://twitch.tv/1k",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": [
+        {
+          "id": "el-barrio-1",
+          "name": "José Juan",
+          "role": "jugador 11",
+          "image": "el-barrio-jos-juan.webp"
+        },
+        {
+          "id": "el-barrio-10",
+          "name": "Jacobo",
+          "role": "Delantero",
+          "image": "el-barrio-jacobo.webp"
+        },
+        {
+          "id": "el-barrio-6",
+          "name": "Mase",
+          "role": "Defensa",
+          "image": "el-barrio-mase.webp"
+        },
+        {
+          "id": "el-barrio-9",
+          "name": "Beguer",
+          "role": "Delantero",
+          "image": "el-barrio-beguer.webp"
+        },
+        {
+          "id": "el-barrio-14",
+          "name": "Ros",
+          "role": "Medio",
+          "image": "el-barrio-ros.webp"
+        },
+        {
+          "id": "el-barrio-8",
+          "name": "Ubón",
+          "role": "Medio",
+          "image": "el-barrio-ubn.webp"
+        },
+        {
+          "id": "el-barrio-19",
+          "name": "Pau ZZ",
+          "role": "Defensa",
+          "image": "el-barrio-pau-zz.webp"
+        },
+        {
+          "id": "el-barrio-placeholder",
+          "name": "Olae",
+          "role": "Delantero",
+          "image": "el-barrio-olae.webp"
+        },
+        {
+          "id": "el-barrio-11",
+          "name": "O. Boada",
+          "role": "Delantero",
+          "image": "el-barrio-o-boada.webp"
+        },
+        {
+          "id": "el-barrio-7",
+          "name": "Baranera",
+          "role": "Medio",
+          "image": "el-barrio-baranera.webp"
+        },
+        {
+          "id": "el-barrio-12",
+          "name": "Capilla",
+          "role": "Medio",
+          "image": "el-barrio-capilla.webp"
+        }
+      ],
+      "coach": "Juan Arroita",
+      "shortName": "RDB",
+      "coachInfo": {
+        "name": "Juan Arroita",
+        "image": "juan-arroita.webp"
+      },
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kingsleague.dev/presidents/adri-contreras.webp",
+        "teamId": "el-barrio"
+      }
+    },
+    "rank": 9
+  },
+  {
+    "wins": 2,
+    "losses": 4,
+    "scoredGoals": 17,
+    "concededGoals": 21,
+    "yellowCards": 0,
+    "redCards": 0,
+    "team": {
+      "color": "#f6ab34",
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/rayo-barcelona-inverse.svg",
+      "url": "https://kingsleague.pro/team/rayo-barcelona/",
+      "channel": "https://twitch.tv/spursito",
+      "socialNetworks": [
+        "https://www.twitch.tv/spursito",
+        "https://www.instagram.com/rayodebarcelona/?hl=es",
+        "https://twitter.com/RayodeBarcelona",
+        "https://www.tiktok.com/@rayodebarcelona"
+      ],
+      "players": [
+        {
+          "id": "rayo-barcelona-45",
+          "name": "Poloteli",
+          "role": "jugador 11",
+          "image": "rayo-barcelona-poloteli.webp"
+        },
+        {
+          "id": "rayo-barcelona-10",
+          "name": "Pelaz",
+          "role": "Medio",
+          "image": "rayo-barcelona-pelaz.webp"
+        },
+        {
+          "id": "rayo-barcelona-41",
+          "name": "Canet",
+          "role": "Portero",
+          "image": "rayo-barcelona-canet.webp"
+        },
+        {
+          "id": "rayo-barcelona-19",
+          "name": "Guillem ZZ",
+          "role": "Delantero",
+          "image": "rayo-barcelona-guillem-zz.webp"
+        },
+        {
+          "id": "rayo-barcelona-22",
+          "name": "M. Reyes",
+          "role": "Defensa",
+          "image": "rayo-barcelona-m-reyes.webp"
+        },
+        {
+          "id": "rayo-barcelona-30",
+          "name": "Franky P.",
+          "role": "Medio",
+          "image": "rayo-barcelona-franky-p.webp"
+        },
+        {
+          "id": "rayo-barcelona-8",
+          "name": "Dani P.",
+          "role": "Medio",
+          "image": "rayo-barcelona-dani-p.webp"
+        },
+        {
+          "id": "rayo-barcelona-11",
+          "name": "Alejandro",
+          "role": "Defensa",
+          "image": "rayo-barcelona-alejandro.webp"
+        },
+        {
+          "id": "rayo-barcelona-9",
+          "name": "Biboum M.",
+          "role": "Delantero",
+          "image": "rayo-barcelona-biboum-m.webp"
+        },
+        {
+          "id": "rayo-barcelona-63",
+          "name": "Jonathan",
+          "role": "Medio",
+          "image": "rayo-barcelona-jonathan.webp"
+        },
+        {
+          "id": "rayo-barcelona-77",
+          "name": "Alex Race",
+          "role": "Delantero",
+          "image": "rayo-barcelona-alex-race.webp"
+        }
+      ],
+      "coach": "JuanluDBZ",
+      "shortName": "RDB",
+      "coachInfo": {
+        "name": "JuanluDBZ",
+        "image": "juanludbz.webp"
+      },
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://kingsleague.dev/presidents/spursito.webp",
+        "teamId": "rayo-barcelona"
+      }
+    },
     "rank": 10
   },
   {
-    "wins": 0,
+    "wins": 1,
     "losses": 5,
-    "scoredGoals": 9,
+    "scoredGoals": 14,
     "concededGoals": 16,
-    "yellowCards": 5,
+    "yellowCards": 4,
     "redCards": 0,
     "team": {
       "color": "#fff68d",
@@ -1126,10 +1126,10 @@
   },
   {
     "wins": 0,
-    "losses": 5,
+    "losses": 6,
     "scoredGoals": 11,
-    "concededGoals": 19,
-    "yellowCards": 3,
+    "concededGoals": 24,
+    "yellowCards": 2,
     "redCards": 0,
     "team": {
       "id": "jijantes-fc",
